@@ -4,7 +4,7 @@ type: project
 image: img/game-jam-thumbnail.gif
 title: "Untitled Mech Game"
 date: 2021-07-21
-published: false
+published: true
 labels:
   - Unity
   - C#
