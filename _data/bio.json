@@ -10,7 +10,7 @@
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "alyssa-greenwell", "url": "http://github.com/alyssa-greenwell" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/alyssa-greenwell/" }
+      { "network": "linkedin", "username": "alyssa-greenwell", "url": "http://linkedin.com/in/alyssa-greenwell/" }
     ]
   },
   "interests": [
