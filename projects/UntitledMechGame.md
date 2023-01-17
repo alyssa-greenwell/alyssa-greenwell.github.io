@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/game-jam-thumbnail.gif
 title: "Untitled Mech Game"
 date: 2021-07-21
 published: true
