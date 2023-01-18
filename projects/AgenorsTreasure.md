@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/web1_UH-Hilo-logo.jpg
 title: "Agenor's Treasure"
 date: 2014
 published: true
@@ -35,9 +35,11 @@ Press ENTER to continue
 
 Earl: Agenor, you say? The greatest pirate of all time? Yes, of course I've heard of him. 
 
-Earl: I see. You're looking for his treasure. That's a dangerous mission, my friend. Many have sought it before, but none have survived the journey. Are you sure you want to do this?
+Earl: I see. You're looking for his treasure. That's a dangerous mission, my friend. Many have sought it before, but none have survived 
+the journey. Are you sure you want to do this?
 
-Earl: Yes, yes, I suppose you are. Well then, I do know someone who may be able to help you. Sail east of here, and find the city of Ajun. Talk to Hob, tell him I sent you. You'll find him on the docks. Careful though. He drives a hard bargain.
+Earl: Yes, yes, I suppose you are. Well then, I do know someone who may be able to help you. Sail east of here, and find the city of Ajun. 
+Talk to Hob, tell him I sent you. You'll find him on the docks. Careful though. He drives a hard bargain.
 
 Earl: Here, I'll mark Ajun on your map. 
 (press 'M' while sailing on your ship to look at your map.)
