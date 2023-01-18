@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/web1_UH-Hilo-logo.jpg
+image: img/agenors-treasure.jpg
 title: "Agenor's Treasure"
 date: 2014
 published: true
