@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/agenors-treasure.jpg
 title: "Agenor's Treasure"
-date: 2014
+date: 2022
 published: true
 labels:
   - C++
