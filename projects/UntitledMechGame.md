@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/game-jam-thumbnail.gif
 title: "Untitled Mech Game"
-date: 2021-07-21
+date: 2022
 published: true
 labels:
   - Unity
