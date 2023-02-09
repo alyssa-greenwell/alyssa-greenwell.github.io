@@ -14,7 +14,7 @@ When I first started learning to code, I naively believed that speed and efficie
 
 Looking back, however, it occurs to me now that the seventeen line solution was significantly better than the two line solution; because coding nowadays is not about speed or efficiency, and it’s definitely not about how many lines it takes you to accomplish a task. Coding nowadays prioritizes readability. Sure, you want your code to be as fast and efficient as you can get it, but a good programmer would not put that above readability. If you write a program that takes up a ton of memory, the easiest solution to that problem is not to rewrite the code, but to run the program on a better computer. We have that luxury now. But in a world as interconnected as ours, if you publish code, you better expect that other people will try to use it. It doesn’t matter much whether your code takes 0.02 seconds versus 0.10 seconds to run, but if it takes another programmer hours to decipher what you’ve written, then you’ve written poor, inefficient code.
 
-## On Readability and Coding Standards
+## On Readability and Coding Standards 
 
 When I started college, my professors emphasized the importance of following coding standards, going so far as to take points off of homeworks if they didn’t comply with them. I thought this was trivial, and a bit ridiculous at first. Why should I get a point off for not including spaces in the right places, or not putting my brackets on a new line? For a long time, coding standards were something I begrudgingly followed under threat of getting a lower grade on my homework otherwise.
 
