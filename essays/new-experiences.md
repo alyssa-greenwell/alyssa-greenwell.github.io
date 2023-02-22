@@ -3,11 +3,8 @@ layout: essay
 type: essay
 title: "New Experiences, New Wisdom"
 # All dates must be YYYY-MM-DD format!
-date: 2022-01-18
+date: 2023-01-18
 published: true
-labels:
-  - Computer Science
-  - Future Goals
 ---
 
 *Wisdom is earned through experience.*
