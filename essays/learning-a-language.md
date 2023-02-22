@@ -5,9 +5,6 @@ title: "Learning a Language in a Day"
 # All dates must be YYYY-MM-DD format!
 date: 2023-01-18
 published: true
-labels:
-  - JavaScript
-  - Athletic Software Engineering
 ---
 
 Up until the weekend before I wrote this essay, I had never touched JavaScript in my life. But thanks to a rather rigorous college assignment and a bout of poor time management on my end, I landed myself in a situation where I had about a day to complete an entire course on JavaScript basics. Luckily, my prior programming experience with other languages came in handy, and I managed to blow through the course in a matter of hours, albeit with several headaches. Now, having gone through all of that, here’s my first thoughts about JavaScript.
