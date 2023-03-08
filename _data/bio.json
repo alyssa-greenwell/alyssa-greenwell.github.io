@@ -21,17 +21,17 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Python" ]
+      "keywords": [ "C", "C++", "Python", "JavaScript", "HTML", "CSS" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "WindowsOS", "Git/GitHub", "Unix", "Unity", "WordPress" ]
+      "keywords": [ "WindowsOS", "Git/GitHub", "Unix", "Unity", "WordPress", "Bootstrap", "React" ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Fall, 2025)",
+      "area": "Computer Science (expected Spring, 2025)",
       "studyType": "B.S.",
       "startDate": "2021",
       "endDate": "Present",
