@@ -1,12 +1,16 @@
 ---
 layout: essay
 type: essay
-title: "Course Finder"
+title: "Final Project Idea"
 date: 2022-03-28
 labels:
   - Software Engineering
   - Meteor
 ---
+# Project: Course Finder
+
+Proposal Written collaboratively by Alyssa Greenwell & Jing Ting Zheng
+
 ## Overview (including “The problem” and “The solution”)
 
 Problem: There are many different classes that can satisfy graduation requirements at UH Manoa. There can be many different classes that can be taken for a requirement like DS or WI. Some of these classes vary in terms of the difficulty. Typically, if a student wanted to see the difficulty of class, they would look for professor reviews or reviews from their peers. Moreover, it is difficult to sort by interests when looking for the perfect class. 
