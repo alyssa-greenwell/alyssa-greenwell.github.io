@@ -9,13 +9,13 @@ labels:
 ---
 # Project: Course Finder
 
-Proposal Written collaboratively by Alyssa Greenwell & Jing Ting Zheng
+Proposal written collaboratively by Alyssa Greenwell & Jing Ting Zheng
 
 ## Overview
 
 Problem: There are many different classes that can satisfy graduation requirements at UH Manoa. There can be many different classes that can be taken for a requirement like DS or WI. Some of these classes vary in terms of the difficulty. Typically, if a student wanted to see the difficulty of class, they would look for professor reviews or reviews from their peers. Moreover, it is difficult to sort by interests when looking for the perfect class. 
 
-Solution: The Course finder allows students to search for classes based on requirements, interest, and difficulty rating to find the class that will best fit their needs.
+Solution: The course finder allows students to search for classes based on requirements, interest, and difficulty rating to find the classes that will best fit their needs.
 
 ## Approach
 
