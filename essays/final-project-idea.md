@@ -14,6 +14,7 @@ Proposal Written collaboratively by Alyssa Greenwell & Jing Ting Zheng
 ## Overview
 
 Problem: There are many different classes that can satisfy graduation requirements at UH Manoa. There can be many different classes that can be taken for a requirement like DS or WI. Some of these classes vary in terms of the difficulty. Typically, if a student wanted to see the difficulty of class, they would look for professor reviews or reviews from their peers. Moreover, it is difficult to sort by interests when looking for the perfect class. 
+
 Solution: The Course finder allows students to search for classes based on requirements, interest, and difficulty rating to find the class that will best fit their needs.
 
 ## Approach
@@ -30,14 +31,14 @@ Mockup page ideas:
 * Admin add page
 * Admin edit page
 
-## Use case ideas
+## Use Case Ideas
 
 * New user goes to landing, creates an account, and logs into the home page.
 * User goes to landing, logs in to their home page, looks at available classes.
 * Admin logs into account, adds a new class.
 * Admin logs into account, edits a class.
 
-## Beyond the basics
+## Beyond the Basics
 
 * Student uses an advanced search function to filter classes by difficulty and tags
 * Student leaves a review on a class and assigns a difficulty rating
