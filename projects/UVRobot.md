@@ -4,7 +4,7 @@ type: project
 image: img/UH-Hilo-logo.jpg
 title: "UV Cleaning Robot"
 date: 2022
-published: true
+published: false
 labels:
   - Python
   - Robotics
