@@ -20,7 +20,7 @@ UI frameworks are something I’ve been introduced to much more recently in my e
 
 ## Design Patterns
 
-<img src="/img/design patterns.png" align="left" width="200px"/>
+<img src="/img/design patterns.png" align="right" width="200px" />
 Unlike coding standards, which I learned about when I started coding, and UI frameworks, which I’ve more recently become proficient with, design patterns are something I have yet to properly utilize. I learned about them very recently, and I think the next step in my education is to learn how to use and understand design patterns. Design patterns are reusable solutions to general problems that can be adapted to fit more specific issues. Design patterns are a crucial part of a software engineer’s toolset, and understanding them is the next step of my journey to expanding my skills.
 
 ## What is Software Engineering?
