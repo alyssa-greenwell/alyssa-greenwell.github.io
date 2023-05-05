@@ -13,8 +13,8 @@ labels:
 summary: "A second-hand shopping website for UH Manoa students that I helped to develop"
 ---
 
-<img src="/img/landing-page.png" width="300px">
+<img src="/img/landing-page.png" width="600px">
 
 For my ICS 314 class, I worked with a team to develop a website where UH Manoa students could buy and sell second-hand school and dorm related items.
 
-See the home page and website [here](https://manoamarketplace.github.io/)
+See the home page and website [here.](https://manoamarketplace.github.io/)
