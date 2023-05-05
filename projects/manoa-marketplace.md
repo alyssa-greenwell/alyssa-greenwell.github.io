@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/manoa-marketplace-logo.png
 title: "Manoa Marketplace"
-date: 2022
+date: 2023
 published: true
 labels:
   - Javascript
