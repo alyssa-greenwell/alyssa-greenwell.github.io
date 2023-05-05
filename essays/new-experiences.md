@@ -4,7 +4,7 @@ type: essay
 title: "New Experiences, New Wisdom"
 # All dates must be YYYY-MM-DD format!
 date: 2023-01-18
-published: true
+published: false
 ---
 
 *Wisdom is earned through experience.*
