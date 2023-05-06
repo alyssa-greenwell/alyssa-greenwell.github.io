@@ -10,6 +10,8 @@ I’ll admit it; front-end programming is the bane of my existence. I find HTML 
 
 ## The Learning Mountain That is Bootstrap
 
+<img src="/img/bloot-sweat-bootstraps-mountain.jpg" width="200px" align="right" />
+
 We’ve all heard of the learning curve. Bootstrap is more like a learning mountain. I spent an unnecessarily long amount of time messing around with their classes, struggling to get anything to work. Every time I thought I was getting somewhere, I would write another line and suddenly slide all the way back down to square one. Even after messing around with it for almost a full week, I felt like I was more confused than when I started. I've been climbing, and climbing, and while I have gotten somewhere, I feel like I’m nowhere near where I should be for the amount of time I’ve put in already.
 
 ## So Why Learn Bootstrap?
