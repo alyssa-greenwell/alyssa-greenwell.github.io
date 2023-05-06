@@ -4,7 +4,7 @@ type: essay
 title: "There is Such a Thing as a Stupid Question"
 # All dates must be YYYY-MM-DD format!
 date: 2023-01-25
-published: true
+published: false
 ---
 
 We’ve all heard the saying “There are no stupid questions.” Whether that’s true or not is debatable; though in the age of internet forums, I’d say that some questions are better than others. As a computer science student, I frequent the popular internet forum StackOverflow whenever something goes wrong. It is an incredibly helpful tool that almost anyone who’s coded before knows about. But there are good and bad ways to ask questions, and that can be seen clearly on StackOverflow.
