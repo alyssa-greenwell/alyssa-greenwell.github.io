@@ -7,6 +7,8 @@ date: 2023-01-18
 published: true
 ---
 
+<img src="/img/runner.jpg" width="600px" />
+
 Up until the weekend before I wrote this essay, I had never touched JavaScript in my life. But thanks to a rather rigorous college assignment and a bout of poor time management on my end, I landed myself in a situation where I had about a day to complete an entire course on JavaScript basics. Luckily, my prior programming experience with other languages came in handy, and I managed to blow through the course in a matter of hours, albeit with several headaches. Now, having gone through all of that, here’s my first thoughts about JavaScript.
 
 ## On JavaScript
@@ -17,4 +19,4 @@ Previously, I’ve used primarily C++ and some C for my coding projects. Immedia
 
 The class that assigned me the task of learning JavaScript focuses on “athletic software engineering.” It’s a style of coding that focuses on the speed and accuracy at which you can write code in a time-pressured environment. In my class, we are assigned Workouts Of the Day, or WODs, for short. These assignments ask for you to time yourself completing a task, and the goal is to finish the task and produce a working chunk of code within a certain amount of time. These assignments vary in difficulty and the amount of time allowed to complete them. Immediately after learning the Javascript basics, I was thrown into several of these assignments that required me to use Javascript to complete the task. Having just learned the basics of the language, the assignments were difficult; however, no matter the complexity of the acual assignment, the most difficult part of every assignment was starting the timer.
 
-Athletic software engineering an interesting skill that I thought was niche at first, but being able to write good code efficiently is a highly valued skill in today’s job market. Writing code and completing assignments while racing against the clock is great practice for technical interviews, as well as improving how efficiently I can accomplish tasks. I think athletic software engineering is a skill that any good computer scientist should possess to some degree. 
+Athletic software engineering an interesting skill that I thought was niche at first, but being able to write good code efficiently is a highly valued skill in today’s job market. Writing code and completing assignments while racing against the clock is great practice for technical interviews, as well as improving how efficiently I can accomplish tasks. Doing timed exercised can be stressful, and I spent more time than I'd like to admit staring at the "start stopwatch" button on my phone and biting my nails before a WOD. However, I think athletic software engineering is a skill that any good computer scientist should possess to some degree.
