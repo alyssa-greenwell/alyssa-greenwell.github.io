@@ -6,7 +6,7 @@ title: "Writing Code for People"
 date: 2023-02-08
 published: true
 ---
-<img src="/img/c-book.jpg" align="right" width="200px" />
+<img src="/img/c-book.jpg" align="left" width="200px" />
 
 When I began learning to program in C, I learned from the textbook _The C Programming Language, 2nd edition_ by Kernighan and Ritchie. This book was published in 1978. While it is a great reference for learning C syntax, I quickly realized that the examples of code in the book were atrocious. They were confusing, all over the place, and didn’t seem to follow any sort of coding standard. It was later explained to me that in 1978, programmers prioritized saving computer memory over anything else, since back then memory was precious, and expensive. Every byte counted, and so making memory efficient code was prioritized over readability.
 
