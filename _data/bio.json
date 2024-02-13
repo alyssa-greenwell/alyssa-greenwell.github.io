@@ -41,19 +41,19 @@
   ],
   "work": [
     {
-      "company": "University of Hawaii at Hilo CNHS Department",
-      "position": "IT Assistant",
+      "company": "University of Hawai'i",
+      "position": "Assistant Teaching Assistant",
       "website": "",
-      "startDate": "2021-10",
-      "endDate": "2022-05",
-      "summary": "Maintained and troubleshooted technology in computer labs and classroom spaces",
+      "startDate": "2024-01",
+      "endDate": "Present",
+      "summary": "Assisting teaching in Introduction to Computer Science class",
       "highlights": [
-        "Ran updates, installed software, and resolved software issues on WindowsOS and MacOS computers",
-        "Assisted in troubleshooting and resolving hardware issues"
+        "Attending and assisting in lectures",
+        "Holding Open Lab Hours where students may recieve one-on-one help with course content"
       ]
     },
     {
-      "company": "University of Hawaii at Manoa Athletics Complex",
+      "company": "University of Hawai'i at Manoa Athletics Complex",
       "position": "Computer Support Specialist",
       "website": "",
       "startDate": "2022",
@@ -62,6 +62,30 @@
       "highlights": [
         "Troubleshoot software and hardware issues for WindowsOS",
         "Use WordPress to manage and update University websites"
+      ]
+    },
+    {
+      "company": "Kealakehe Elementary School",
+      "position": "Tech Assistant",
+      "website": "",
+      "startDate": "2023-05",
+      "endDate": "2023-08",
+      "summary": "Providing tech support in preparation for upcoming school year",
+      "highlights": [
+        "Registered, updated, and troubleshooted issues on several Windows OS and Chrome OS machines",
+        "Set up various types of machines in accordance with HIDOE standards"
+      ]
+    },
+    {
+      "company": "University of Hawai'i at Hilo CNHS Department",
+      "position": "IT Assistant",
+      "website": "",
+      "startDate": "2021-10",
+      "endDate": "2022-05",
+      "summary": "Maintained and troubleshooted technology in computer labs and classroom spaces",
+      "highlights": [
+        "Ran updates, installed software, and resolved software issues on WindowsOS and MacOS computers",
+        "Assisted in troubleshooting and resolving hardware issues"
       ]
     }
   ]
