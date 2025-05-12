@@ -1,0 +1,92 @@
+{
+  "basics": {
+    "name": "Alyssa Greenwell",
+    "label": "Student",
+    "picture": "https://github.com/alyssa-greenwell.png",
+    "email": "808alyssag@gmail.com",
+    "phone": "808-333-7247",
+    "website": "https://alyssa-greenwell.github.io",
+    "summary": "Undergraduate student in Computer Science at the University of Hawaii at Manoa.",
+    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "alyssa-greenwell", "url": "http://github.com/alyssa-greenwell" },
+      { "network": "linkedin", "username": "alyssa-greenwell", "url": "http://linkedin.com/in/alyssa-greenwell/" }
+    ]
+  },
+  "interests": [
+    { "name": "Software Development" },
+    { "name": "Game Design" },
+    { "name": "Creative Computational Media" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "C++", "Python", "JavaScript", "HTML", "CSS" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "WindowsOS", "Git/GitHub", "Unix", "Unity", "WordPress", "Bootstrap", "React" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected Spring, 2025)",
+      "studyType": "B.S.",
+      "startDate": "2021",
+      "endDate": "Present",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "University of Hawai'i",
+      "position": "Assistant Teaching Assistant",
+      "website": "",
+      "startDate": "2024-01",
+      "endDate": "Present",
+      "summary": "Assisting teaching in Introduction to Computer Science class",
+      "highlights": [
+        "Attending and assisting in lectures",
+        "Holding Open Lab Hours where students may recieve one-on-one help with course content"
+      ]
+    },
+    {
+      "company": "University of Hawai'i at Manoa Athletics Complex",
+      "position": "Computer Support Specialist",
+      "website": "",
+      "startDate": "2022",
+      "endDate": "Present",
+      "summary": "Supervising computer lab spaces in the Athletics Complex",
+      "highlights": [
+        "Troubleshoot software and hardware issues for WindowsOS",
+        "Use WordPress to manage and update University websites"
+      ]
+    },
+    {
+      "company": "Kealakehe Elementary School",
+      "position": "Tech Assistant",
+      "website": "",
+      "startDate": "2023-05",
+      "endDate": "2023-08",
+      "summary": "Providing tech support in preparation for upcoming school year",
+      "highlights": [
+        "Registered, updated, and troubleshooted issues on several Windows OS and Chrome OS machines",
+        "Set up various types of machines in accordance with HIDOE standards"
+      ]
+    },
+    {
+      "company": "University of Hawai'i at Hilo CNHS Department",
+      "position": "IT Assistant",
+      "website": "",
+      "startDate": "2021-10",
+      "endDate": "2022-05",
+      "summary": "Maintained and troubleshooted technology in computer labs and classroom spaces",
+      "highlights": [
+        "Ran updates, installed software, and resolved software issues on WindowsOS and MacOS computers",
+        "Assisted in troubleshooting and resolving hardware issues"
+      ]
+    }
+  ]
+}
