@@ -4,7 +4,7 @@ type: essay
 title: "Lessons In Accounting"
 # All dates must be YYYY-MM-DD format!
 date: 2025-05-12
-published: true
+published: false
 ---
 This semester, I was a part of a team of six that made a website for Spire Hawaii, a local CPA firm. Our website was meant to display financial data, such as financial compilations and sustainability models, in both table forms and graph forms. The website was interactive in the sense that the user could manipulate certain conditions to create different scenarios for the forecast. This project had its ups, its downs, and most importantly, its lessons to be learned.
 
