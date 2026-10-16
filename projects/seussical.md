@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/seussical-logo.jpg
 title: "Seussical"
-date: 2025
+date: 2026
 published: true
 labels:
   - Lighting Operation
