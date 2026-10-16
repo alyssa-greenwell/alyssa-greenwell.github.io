@@ -10,7 +10,7 @@ labels:
   - React
   - Bootstrap
   - Web design
-summary: "A second-hand shopping website for UH Manoa students that I helped to develop"
+summary: "A second-hand shopping website for UH Manoa students that I helped to develop."
 ---
 
 <img src="/img/landing-page.png" width="600px">
