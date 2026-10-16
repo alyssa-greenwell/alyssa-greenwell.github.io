@@ -4,7 +4,7 @@ type: essay
 title: "Writing Code for People"
 # All dates must be YYYY-MM-DD format!
 date: 2023-02-08
-published: true
+published: false
 ---
 <img src="/img/c-book.jpg" align="left" width="200px" />
 
