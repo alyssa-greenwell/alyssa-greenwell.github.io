@@ -14,8 +14,11 @@
     ]
   },
   "interests": [
-    { "name": "Software Development" },
-    { "name": "Game Design" },
+    { "name": "Operations Coordination" },
+    { "name": "Administrative / Assistant Work" },
+    { "name": "Product Design" },
+    { "name": "Sales Engineering" },
+    { "name": "Lighting Design" },
     { "name": "Creative Computational Media" }
   ],
   "skills": [
@@ -31,37 +34,49 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2025)",
+      "area": "Computer Science",
       "studyType": "B.S.",
       "startDate": "2021",
-      "endDate": "Present",
+      "endDate": "2025",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (Expected December 2026)",
+      "studyType": "M.S.",
+      "startDate": "2025",
+      "endDate": "2026",
       "courses": [
       ]
     }
   ],
   "work": [
     {
-      "company": "University of Hawai'i",
-      "position": "Assistant Teaching Assistant",
+      "company": "University of Hawai'i at Manoa Athletics Complex",
+      "position": "Operations and Technical Support Assistant",
       "website": "",
-      "startDate": "2024-01",
+      "startDate": "2022-08",
       "endDate": "Present",
-      "summary": "Assisting teaching in Introduction to Computer Science class",
+      "summary": "Supervising computer lab spaces in the Athletics Complex, and managing student data and athletics website",
       "highlights": [
-        "Attending and assisting in lectures",
-        "Holding Open Lab Hours where students may recieve one-on-one help with course content"
+        "Troubleshoot software and hardware issues for WindowsOS",
+        "Use WordPress to manage and update University websites",
+        "Managing several student databases and email correspondence",
+        "Regularly monitor student computer labs and take initiative to resolve any issues I see"
       ]
     },
     {
-      "company": "University of Hawai'i at Manoa Athletics Complex",
-      "position": "Computer Support Specialist",
+      "company": "Aloha Theatre",
+      "position": "Lighting Operator",
       "website": "",
-      "startDate": "2022",
-      "endDate": "Present",
-      "summary": "Supervising computer lab spaces in the Athletics Complex",
+      "startDate": "2026-06",
+      "endDate": "2026-08",
+      "summary": "Operate lighting for a production of Seussical",
       "highlights": [
-        "Troubleshoot software and hardware issues for WindowsOS",
-        "Use WordPress to manage and update University websites"
+        "Programmed and operated a light board, made basic lighting design choices",
+        "Assisted with miscellaneous event planning, set-up, and break-down tasks",
+        "Worked under pressure to resolve real-time issues shortly before and/or during shows"
       ]
     },
     {
@@ -72,6 +87,7 @@
       "endDate": "2023-08",
       "summary": "Providing tech support in preparation for upcoming school year",
       "highlights": [
+        "Organized and lead technology-related classroom activities for children grades 3-5",
         "Registered, updated, and troubleshooted issues on several Windows OS and Chrome OS machines",
         "Set up various types of machines in accordance with HIDOE standards"
       ]
