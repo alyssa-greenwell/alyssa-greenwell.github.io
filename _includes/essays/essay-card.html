@@ -11,7 +11,6 @@
       </p>
     </div>
     <div class="card-footer">
-      <div class="text-center"><a href="{% if page.essayurl %}{{ page.essayurl }}{% else %}{{ site.baseurl}}{{ include.page.url }}{% endif %}" class="btn btn-outline-dark">Read More</a></div>
-    </div>
+      <a href="{% if include.page.pdf_url %}{{ include.page.pdf_url }}{% else %}{{ site.baseurl }}{{ include.page.url }}{% endif %}" class="btn btn-outline-dark" target="_blank" rel="noopener noreferrer">Read More</a>    </div>
   </div>
 </div>
