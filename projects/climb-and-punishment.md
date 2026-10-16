@@ -18,4 +18,4 @@ This game was created collaboratively in a team of myself and two other designer
 
 View a video of the gameplay <a href="https://drive.google.com/file/d/1H_cKIJnn8E7CTGGMO9JLJmHHa3HIRO2D/view?usp=sharing">here.</a>
 
-Or, play the game for yourself <a href="https://alyoola.itch.io/climb-and-punishment">https://alyoola.itch.io/climb-and-punishment.</a>
+Or, play the game for yourself at <a href="https://alyoola.itch.io/climb-and-punishment">https://alyoola.itch.io/climb-and-punishment</a>!
