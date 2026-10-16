@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/ComeFromAwayLogo.jpg
+image: img/come-from-away-logo.jpg
 title: "Welcome To The Rock Lighting Design"
 date: 2025
 published: true
