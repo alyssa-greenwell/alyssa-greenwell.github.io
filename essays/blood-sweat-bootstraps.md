@@ -4,7 +4,7 @@ type: essay
 title: "Blood, Sweat, and Bootstraps"
 # All dates must be YYYY-MM-DD format!
 date: 2023-02-22
-published: true
+published: false
 ---
 I’ll admit it; front-end programming is the bane of my existence. I find HTML and CSS confusing and tedious, and I’d much rather write back-end programs any day. However, being able to be proficient in front-end coding is essential for opening as many opportunities for myself as possible. This week, I began learning to create web pages using the UI Framework Bootstrap. This was my experience.
 
