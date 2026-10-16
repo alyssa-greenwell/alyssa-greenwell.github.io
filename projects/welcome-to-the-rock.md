@@ -11,7 +11,7 @@ labels:
 summary: "Lighting Design for the intro to Come From Away I created using WYSIWYG lighting simulator software."
 ---
 
-<img class="img-fluid" src="../img/welcome-to-the-rock-screenshot.png">
+<img class="img-fluid" src="../img/welcome-to-the-rock-screenshot.png" width="600px">
 
 This is a simulation of a lighting design for Welcome to the Rock, the opening number of Come From Away. This project was done for an Intermediate Lighting Design class.
 
