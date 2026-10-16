@@ -4,7 +4,7 @@ type: essay
 title: "Learning a Language in a Day"
 # All dates must be YYYY-MM-DD format!
 date: 2023-01-18
-published: true
+published: false
 ---
 
 <img src="/img/runner.jpg" width="400px" />
