@@ -1,0 +1,9 @@
+---
+layout: essay
+type: essay
+title: "Classic Monte Carlo Tree Search Applied to Connect Four"
+# All dates must be YYYY-MM-DD format!
+date: 2024-12-5
+pdf_url: "https://drive.google.com/file/d/1kDFvu5dzbqaWDC_shqPf4zay4CY8Vjdt/view?usp=sharing"
+published: true
+---
