@@ -4,7 +4,7 @@ type: project
 image: img/agenors-treasure.jpg
 title: "Agenor's Treasure"
 date: 2022
-published: true
+published: false
 labels:
   - C++
   - Game Design
