@@ -4,7 +4,7 @@ type: essay
 title: "What is Software Engineering?"
 # All dates must be YYYY-MM-DD format!
 date: 2023-05-05
-published: true
+published: false
 ---
 I like to joke to my friends that the only thing that makes you a good software engineer is knowing how to google the solution to any problem. Of course, in reality it’s quite a bit more complicated, but what I mean by that is it’s very rare that I will come across a problem in software engineering that I will know how to solve right away. However, I have the skillset and problem-solving ability needed to figure it out (perhaps with a little help from google). 
 
