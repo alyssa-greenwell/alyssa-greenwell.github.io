@@ -1,0 +1,108 @@
+{
+  "basics": {
+    "name": "Alyssa Greenwell",
+    "label": "Student",
+    "picture": "https://github.com/alyssa-greenwell.png",
+    "email": "808alyssag@gmail.com",
+    "phone": "808-333-7247",
+    "website": "https://alyssa-greenwell.github.io",
+    "summary": "Graduate student in Computer Science at the University of Hawaii at Manoa graduating in December 2026.",
+    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "alyssa-greenwell", "url": "http://github.com/alyssa-greenwell" },
+      { "network": "linkedin", "username": "alyssa-greenwell", "url": "http://linkedin.com/in/alyssa-greenwell/" }
+    ]
+  },
+  "interests": [
+    { "name": "Operations Coordination" },
+    { "name": "Administrative/ Assistant Work" },
+    { "name": "Product Design" },
+    { "name": "Sales Engineering" },
+    { "name": "Lighting Design" },
+    { "name": "Creative Computational Media" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "C++", "Python", "JavaScript", "HTML", "CSS" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "WindowsOS", "Microsoft Office", "Git/GitHub", "Unix", "Unity", "Blender", "WordPress", "WYSIWYG for Lighting", "EOS Lighting Software"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science",
+      "studyType": "B.S.",
+      "startDate": "2021",
+      "endDate": "2025",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (Expected December 2026)",
+      "studyType": "M.S.",
+      "startDate": "2025",
+      "endDate": "2026",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "University of Hawai'i at Manoa Athletics Complex",
+      "position": "Operations and Technical Support Assistant",
+      "website": "",
+      "startDate": "2022-08",
+      "endDate": "Present",
+      "summary": "Supervising computer lab spaces in the Athletics Complex, and managing student data and athletics website",
+      "highlights": [
+        "Troubleshoot software and hardware issues for WindowsOS",
+        "Use WordPress to manage and update University websites",
+        "Managing several student databases and email correspondence",
+        "Regularly monitor student computer labs and take initiative to resolve any issues"
+      ]
+    },
+    {
+      "company": "Aloha Theatre",
+      "position": "Lighting Operator",
+      "website": "",
+      "startDate": "2026-06",
+      "endDate": "2026-08",
+      "summary": "Operate lighting for a production of Seussical",
+      "highlights": [
+        "Programmed and operated a light board, made basic lighting design choices",
+        "Assisted with miscellaneous event planning, set-up, and break-down tasks",
+        "Worked under pressure to resolve real-time issues shortly before and/or during shows"
+      ]
+    },
+    {
+      "company": "Kealakehe Elementary School",
+      "position": "Tech Assistant",
+      "website": "",
+      "startDate": "2023-05",
+      "endDate": "2023-08",
+      "summary": "Providing tech support in preparation for upcoming school year",
+      "highlights": [
+        "Organized and lead technology-related classroom activities for children grades 3-5",
+        "Registered, updated, and troubleshooted issues on several Windows OS and Chrome OS machines",
+        "Set up various types of machines in accordance with HIDOE standards"
+      ]
+    },
+    {
+      "company": "University of Hawai'i at Hilo CNHS Department",
+      "position": "IT Assistant",
+      "website": "",
+      "startDate": "2021-10",
+      "endDate": "2022-05",
+      "summary": "Maintained and troubleshooted technology in computer labs and classroom spaces",
+      "highlights": [
+        "Ran updates, installed software, and resolved software issues on WindowsOS and MacOS computers",
+        "Assisted in troubleshooting and resolving hardware issues"
+      ]
+    }
+  ]
+}
